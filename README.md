@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://gitroll.io/profile/uCcBDT9WBHqYSyt9jugDHLVrFt5k2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uCcBDT9WBHqYSyt9jugDHLVrFt5k2" alt="GitRoll Profile Badge"/></a>
 </div>
 
 ---
