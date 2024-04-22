@@ -61,5 +61,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![](https://raw.githubusercontent.com/Edd27/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Edd27/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mji0gxk3ndco3bu36scjjrsqr&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
